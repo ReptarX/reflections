@@ -3,3 +3,6 @@ Creates the hidden git directory.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is where all the uncommitted changes are stored. They are only the unchanged files whereas the working directory is all the files. The repository holds all the commited changes to files. It allows you to see all the changes you have made before committing allowing you to determine if your commit is meaningful.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area shows you the files that have been changed. You can then choose which files should be add to a commit to conform to the one commit per logical change.
