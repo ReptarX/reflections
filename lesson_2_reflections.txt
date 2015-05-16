@@ -9,3 +9,6 @@ The staging area shows you the files that have been changed. You can then choose
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branchs would be helpful in developing new features they may not work or may not be included in the final product. Branchs would allow the sharing of the same code base without one branch effecting another.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help visualize where each branch has been made and their relationship to eachother.
