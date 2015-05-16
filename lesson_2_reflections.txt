@@ -6,3 +6,6 @@ The staging area is where all the uncommitted changes are stored. They are only 
 
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area shows you the files that have been changed. You can then choose which files should be add to a commit to conform to the one commit per logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branchs would be helpful in developing new features they may not work or may not be included in the final product. Branchs would allow the sharing of the same code base without one branch effecting another.
